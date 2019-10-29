@@ -75,7 +75,7 @@ def wizard():
 
 def brutes(username, username_selector ,password_selector,login_btn_selector,pass_list, website):
     f = open(pass_list, 'r')
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(chromedriver)
     optionss = webdriver.ChromeOptions()
     optionss.add_argument("--disable-popup-blocking")
     optionss.add_argument("--disable-extensions")
@@ -121,7 +121,7 @@ banner = color.BOLD + color.RED +'''
   {4}[{5}-{6}]--> {7} Illegal disclaimer
   {8}[{9}-{10}]-->{11} brute-force tool                      '''.format(color.RED, color.CWHITE,color.RED,color.GREEN,color.RED, color.CWHITE,color.RED,color.GREEN,color.RED, color.CWHITE,color.RED,color.GREEN)
 
-driver = webdriver.Chrome()
+driver = webdriver.Chrome(chromedriver)
 optionss = webdriver.ChromeOptions()
 optionss.add_argument("--disable-popup-blocking")
 optionss.add_argument("--disable-extensions")
