@@ -1,8 +1,7 @@
 # hacks_SoS
-Hatch is a brute force tool that is used to brute force most websites
+hacks_SoS is a brute force tool that is used to brute force most websites
 
 # Update! v.1.3
-added arg support **yay**
 <br>
   -h, --help            show this help message and exit<br>
   -u USERNAME, --username=USERNAME Choose the username<br>
@@ -15,7 +14,7 @@ dont worry if you load up the tool without any args youll go to the default wiza
 Also i removed the apt xvfb and pip2 pyvirtualdisplay
 ## Installation Instructions for kali linux
 ```
-git clone https://github.com/ZCassanova404/Hatch.git
+git clone https://github.com/ZC1DnS/hacks_SoS
 cd Hatch
 python2 main.py
 ```
