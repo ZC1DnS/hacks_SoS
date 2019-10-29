@@ -14,7 +14,7 @@ dont worry if you load up the tool without any args youll go to the default wiza
 Also i removed the apt xvfb and pip2 pyvirtualdisplay
 ## Installation Instructions for kali linux
 ```
-git clone https://github.com/ZC1DnS/hacks_SoS
+git clone https://github.com/ZC1DnS/hacks_SoS.git
 cd Hatch
 python2 main.py
 ```
