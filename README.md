@@ -34,7 +34,7 @@ open file. /etc/chromium.d/  edit file default-flags.
 
 text 
 ```
-#Run as root Kali 
+# Run as root Kali 
 
 export CHROMIUM_FLAGS="$CHROMIUM_FLAGS --password-store=detect --no-sandbox --user-data-dir" 
 
