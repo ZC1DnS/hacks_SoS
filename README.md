@@ -17,7 +17,7 @@ Also i removed the apt xvfb and pip2 pyvirtualdisplay
 ## Installation Instructions for kali linux
 ```
 git clone https://github.com/ZC1DnS/hacks_SoS.git
-cd Hatch
+cd hacks_SoS
 python2 main.py
 ```
 
