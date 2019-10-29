@@ -12,6 +12,8 @@ hacks_SoS is a brute force tool that is used to brute force most websites
   --website=WEBSITE     choose a website<br>
 dont worry if you load up the tool without any args youll go to the default wizard!
 Also i removed the apt xvfb and pip2 pyvirtualdisplay
+
+
 ## Installation Instructions for kali linux
 ```
 git clone https://github.com/ZC1DnS/hacks_SoS.git
