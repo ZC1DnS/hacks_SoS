@@ -52,5 +52,6 @@ copy and paste default-flags !
 5). When Asked put in the username to brute force<br>
 6). Watch it go!
 
-
+## How to use (Video)
+[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=OseTcgmVcjs")
 
