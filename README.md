@@ -1,7 +1,7 @@
 # hacks_SoS
 hacks_SoS is a brute force tool that is used to brute force most websites
 
-# Update! v.1.3
+# version. v.1.5
 <br>
   -h, --help            show this help message and exit<br>
   -u USERNAME, --username=USERNAME Choose the username<br>
