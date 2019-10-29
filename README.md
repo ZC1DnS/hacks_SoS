@@ -53,5 +53,5 @@ copy and paste default-flags !
 6). Watch it go!
 
 ## How to use (Video)
-[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=OseTcgmVcjs")
+(https://www.youtube.com/watch?v=OseTcgmVcjs")
 
